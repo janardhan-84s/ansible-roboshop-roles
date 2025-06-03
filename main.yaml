@@ -1,4 +1,5 @@
 # we are passing the variables through command line 
+# By passing through special variables make sure to give in ""
 
 
 - name: "configure {{ component }}"
