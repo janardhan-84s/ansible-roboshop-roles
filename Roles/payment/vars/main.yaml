@@ -1,0 +1,6 @@
+
+CART_HOST: cart.jana-84s.site
+USER_HOST: user.jana-84s.site
+RABBITMQ_HOST: rabbitmq.jana-84s.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
